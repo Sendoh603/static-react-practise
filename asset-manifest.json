@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Sendoh603/Static-react-practise2.git/static/css/main.d1b05096.chunk.css",
+    "main.js": "/Sendoh603/Static-react-practise2.git/static/js/main.545514a0.chunk.js",
+    "main.js.map": "/Sendoh603/Static-react-practise2.git/static/js/main.545514a0.chunk.js.map",
+    "runtime-main.js": "/Sendoh603/Static-react-practise2.git/static/js/runtime-main.c8c2a7f6.js",
+    "runtime-main.js.map": "/Sendoh603/Static-react-practise2.git/static/js/runtime-main.c8c2a7f6.js.map",
+    "static/js/2.b6fabe4d.chunk.js": "/Sendoh603/Static-react-practise2.git/static/js/2.b6fabe4d.chunk.js",
+    "static/js/2.b6fabe4d.chunk.js.map": "/Sendoh603/Static-react-practise2.git/static/js/2.b6fabe4d.chunk.js.map",
+    "index.html": "/Sendoh603/Static-react-practise2.git/index.html",
+    "precache-manifest.c6e1f5014ac36f37052d0c5ccb6eb759.js": "/Sendoh603/Static-react-practise2.git/precache-manifest.c6e1f5014ac36f37052d0c5ccb6eb759.js",
+    "service-worker.js": "/Sendoh603/Static-react-practise2.git/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/Sendoh603/Static-react-practise2.git/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.b6fabe4d.chunk.js.LICENSE": "/Sendoh603/Static-react-practise2.git/static/js/2.b6fabe4d.chunk.js.LICENSE",
+    "static/media/logo.svg": "/Sendoh603/Static-react-practise2.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8c2a7f6.js",
+    "static/js/2.b6fabe4d.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.545514a0.chunk.js"
+  ]
+}
